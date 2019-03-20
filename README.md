@@ -189,7 +189,7 @@ CMD 를 관리자 권한 으로 열고 C:\Program Files (x86)\Windows Kits\10\To
    devcon status acpi\ADXL345Acc 
 로 드라이버 확인 
 
-##Minnowboard에 연결하기 
+## Minnowboard에 연결하기 
 
 Minnowboard ADXL345 연결도 
 ![Minnow](image/MinnoADXL.png)
