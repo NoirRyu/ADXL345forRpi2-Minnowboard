@@ -2,7 +2,7 @@
 
 본 소스는 https://github.com/Microsoft/Windows-driver-samples/blob/master/sensors/ADXL345Acc/readme.md 의 경로의 소스를 사용함 
 
-##ADXL345 드라이버 소스 주요 내용 
+## ADXL345 드라이버 소스 주요 내용 
 Inf 파일 주요 값 
 
 Class = Sensor
@@ -148,7 +148,7 @@ I2CSensorReadRegister
 
 
 
-##라즈베리파이에 포팅하기 
+## 라즈베리파이에 포팅하기 
 
 라즈베리파이와 ADXL345 연결도 
 ![Rpi](image/RpiADXL.jpg)
